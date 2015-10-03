@@ -1,0 +1,19 @@
+img {
+	width: 200px;
+	height: 200px;
+}
+.name {
+	font-family: "Courier New";
+}
+.cover {
+	text-align: center;
+	background-image: url("http://panoramichill.org/wp-content/uploads/2010/09/cropped-BerkeleyAndBayAtNight3.jpg");
+}
+.random {
+	font-family: "Georgia";
+	width: 600px;
+	background-color: RED;
+	margin: auto;
+	padding: 20px 6px;
+	border-radius: 4px;
+}
